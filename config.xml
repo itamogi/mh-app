@@ -41,31 +41,31 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-    <icon src="icon.png" />
-    <icon gap:platform="android" gap:qualifier="ldpi" src="www/icon.png" />
-    <icon gap:platform="android" gap:qualifier="mdpi" src="www/icon.png" />
-    <icon gap:platform="android" gap:qualifier="hdpi" src="www/icon.png" />
-    <icon gap:platform="android" gap:qualifier="xhdpi" src="www/icon.png" />
-    <icon gap:platform="blackberry" src="www/icon.png" />
-    <icon gap:platform="blackberry" gap:state="hover" src="www/icon.png" />
-    <icon gap:platform="ios" height="57" src="www/icon.png" width="57" />
-    <icon gap:platform="ios" height="72" src="www/icon.png" width="72" />
-    <icon gap:platform="ios" height="114" src="www/icon.png" width="114" />
-    <icon gap:platform="ios" height="144" src="www/icon.png" width="144" />
-    <icon gap:platform="webos" src="www/icon.png" />
-    <icon gap:platform="winphone" src="www/icon.png" />
-    <icon gap:platform="winphone" gap:role="background" src="www/icon.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/icon.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/icon.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="www/icon.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="www/icon.png" />
-    <gap:splash gap:platform="blackberry" src="www/icon.png" />
-    <gap:splash gap:platform="ios" height="480" src="www/icon.png" width="320" />
-    <gap:splash gap:platform="ios" height="960" src="www/icon.png" width="640" />
-    <gap:splash gap:platform="ios" height="1136" src="www/icon.png" width="640" />
-    <gap:splash gap:platform="ios" height="1024" src="www/icon.png" width="768" />
-    <gap:splash gap:platform="ios" height="768" src="www/icon.png" width="1024" />
-    <gap:splash gap:platform="winphone" src="www/icon.jpg" />
+    <icon src="appIcon.png" />
+    <icon gap:platform="android" gap:qualifier="ldpi" src="www/appIcon.png" />
+    <icon gap:platform="android" gap:qualifier="mdpi" src="www/appIcon.png" />
+    <icon gap:platform="android" gap:qualifier="hdpi" src="www/appIcon.png" />
+    <icon gap:platform="android" gap:qualifier="xhdpi" src="www/appIcon.png" />
+    <icon gap:platform="blackberry" src="www/appIcon.png" />
+    <icon gap:platform="blackberry" gap:state="hover" src="www/appIcon.png" />
+    <icon gap:platform="ios" height="57" src="www/appIcon.png" width="57" />
+    <icon gap:platform="ios" height="72" src="www/appIcon.png" width="72" />
+    <icon gap:platform="ios" height="114" src="www/appIcon.png" width="114" />
+    <icon gap:platform="ios" height="144" src="www/appIcon.png" width="144" />
+    <icon gap:platform="webos" src="www/appIcon.png" />
+    <icon gap:platform="winphone" src="www/appIcon.png" />
+    <icon gap:platform="winphone" gap:role="background" src="www/appIcon.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="www/appIcon.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="www/appIcon.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="www/appIcon.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="www/appIcon.png" />
+    <gap:splash gap:platform="blackberry" src="www/appIcon.png" />
+    <gap:splash gap:platform="ios" height="480" src="www/appIcon.png" width="320" />
+    <gap:splash gap:platform="ios" height="960" src="www/appIcon.png" width="640" />
+    <gap:splash gap:platform="ios" height="1136" src="www/appIcon.png" width="640" />
+    <gap:splash gap:platform="ios" height="1024" src="www/appIcon.png" width="768" />
+    <gap:splash gap:platform="ios" height="768" src="www/appIcon.png" width="1024" />
+    <gap:splash gap:platform="winphone" src="www/appIcon.jpg" />
     <access origin="*" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <allow-intent href="http://*/*" />
